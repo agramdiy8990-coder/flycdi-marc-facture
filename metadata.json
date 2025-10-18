@@ -1,0 +1,5 @@
+{
+  "name": "Excel Product Selector",
+  "description": "An application to upload an Excel/CSV file, view products, select specific products, and download the selected list as a new file.",
+  "requestFramePermissions": []
+}
